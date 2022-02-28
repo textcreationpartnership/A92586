@@ -1,0 +1,308 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New propositions from the Parliament of Scotland, concerning the Kings Majesty, and their resolution to re-instate him in his royal throne, and to use their utmost endeavour for the rescuing of his person out of the hands of those who carryed him from Holdenby against his will, and the resolution of both kingdomes. Likewise their further proposals, touching the Kings Majesty, and his successours, and the detaining his royall person contrary to promise. Resolved, and agreed upon, that these propositions and proposalls, be forthwith sent to the Parliament of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92586</idno>
+            <idno type="STC">Wing S1294</idno>
+            <idno type="STC">Thomason E437_19</idno>
+            <idno type="STC">ESTC R204710</idno>
+            <idno type="EEBO-CITATION">99864175</idno>
+            <idno type="PROQUEST">99864175</idno>
+            <idno type="VID">116397</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92586)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116397)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E437[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New propositions from the Parliament of Scotland, concerning the Kings Majesty, and their resolution to re-instate him in his royal throne, and to use their utmost endeavour for the rescuing of his person out of the hands of those who carryed him from Holdenby against his will, and the resolution of both kingdomes. Likewise their further proposals, touching the Kings Majesty, and his successours, and the detaining his royall person contrary to promise. Resolved, and agreed upon, that these propositions and proposalls, be forthwith sent to the Parliament of England.</title>
+                  <author>Robins, F.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. for R.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Actually a letter, dated and signed: Edenburgh April. 22. 1648. F. Robins.</note>
+                  <note>Annotation on Thomason copy: "Aprill 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Captivity, 1647-1649 --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643) --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlel_page">
+            <pb facs="tcp:116397:1" rendition="simple:additions"/>
+            <p>NEW PROPOSITJONS From the Parliament of SCOTLAND, CONCERNING The Kings Majeſty, and their Reſolu<g ref="char:EOLhyphen"/>tion to re-inſtate Him in His Royal Throne, and to uſe their utmoſt endeavour for the reſcuing of His Perſon out of the hands of thoſe who carryed Him from <hi>Holdenby</hi> againſt His will, and the Reſo<g ref="char:EOLhyphen"/>lution of both Kingdomes.</p>
+            <p>Likewiſe their further Propoſals, touching the Kings Majeſty, and His Succeſſours, and the detaining his Royall Perſon con<g ref="char:EOLhyphen"/>trary to promiſe.</p>
+            <p>REſolved, and agreed upon, that theſe Propoſitions and Propo<g ref="char:EOLhyphen"/>ſalls, be forthwith ſent to the PARLIAMENT of ENGLAND.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. C.</hi> for <hi>R. G.</hi> MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:116397:2"/>
+            <pb n="1" facs="tcp:116397:2"/>
+            <head>A Letter from Scotland, certifying how the Lord <hi>Lee</hi> is ſent with a meſſage to the Parliament, and of the late paſſages in thoſe parts.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Received yours of the 15. inſtant, and have diſpenſed with my other occaſions which at this time are very urgent; to fulfill your requeſt, and give you a cer<g ref="char:EOLhyphen"/>taine relation of all the proceedings in theſe parts.</p>
+            <p>This laſt Weeke, the Earle of <hi>Argi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> and divers others <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſſenting Scots Lords, and Gentlemen, with the Gen: diſſented to the raiſing of Forces againſt England, and Petitioned the Parliament that there might be no engagement with their Bretheren of Engl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd, but that they would edeavour to compoſe all differences, that Unity and Peace might once againe triumph in both King<g ref="char:EOLhyphen"/>domes. Which petition was ſeconded by divers well af<g ref="char:EOLhyphen"/>fected perſons in the County of <hi>Fiffe,</hi> who have likewiſe drawn up a petition to the very ſame effect.</p>
+            <p>The Clergy generally ſtick to their old principles, and labour to perſwade the people to ſeek after peace, laying before them the miſeries and inconveniences, that Warre
+<pb n="2" facs="tcp:116397:3"/>
+brings to a State or Kingdom, and the rich bleſſings and be<g ref="char:EOLhyphen"/>nefits that attend on peace; whoſe doctrin hath ſo wrought in peoples hearts,, that divers have entred into an agree<g ref="char:EOLhyphen"/>ment to petition the Parliament, that they might not bee forced to fight againſt their conſciences, nor further en<g ref="char:EOLhyphen"/>gage, unleſſe it be on better termes, then as yet they con<g ref="char:EOLhyphen"/>ceive. Yet (notwithſtanding theſe diſſentions) there is a very conſiderable A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>my rayſing, (under the command of the E. of <hi>Kalender,</hi> which I conceive you have heard off formerly) under the pretence of pu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting the king<g ref="char:EOLhyphen"/>dome into a poſture of defence, and they liſt men dayl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in all p<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ts; and within th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe 8. dayes there came above 100 Engliſh Souldiers to this City, who are already entred in<g ref="char:EOLhyphen"/>to pay, and joyned with the reſt, who are in all ſome 2000. and moſt of them Cav<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>liers, and ſuch as have formerly en<g ref="char:EOLhyphen"/>gaged againſt the parliament: Yet for all this, th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re is great hopes there will be an agreement betweene both King<g ref="char:EOLhyphen"/>domes, and theſe men diſapointed of their purpoſe, for the L. <hi>Lee</hi> is appointed to go with a Meſſage (to <hi>London,</hi> from the Parl. of <hi>Scotland)</hi> to the Parl, of <hi>England,</hi> and preſent ſe<g ref="char:EOLhyphen"/>verall propoſitions for a perſonall treaty; and to that end, they deſire;
+<list>
+                  <item>1. <hi>That his Majeſtie ſhould be brought to London, or Holdenby, or ſome other of his Majeſties Pallaces, which the Honſes ſhall think moſt fit, where his Maj<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſtie may remaine in honor and ſafety.</hi>
+                  </item>
+                  <item>2. <hi>That the Presbyterian government may be ſetled in full unifor<g ref="char:EOLhyphen"/>formity to that of</hi> Scotland, <hi>or according to Covenant.</hi>
+                  </item>
+                  <item>3. <hi>The disbanding the A<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>my of Sectaries, as they call them.</hi>
+                  </item>
+                  <item>4. <hi>That the Warre of</hi> Ireland <hi>may be effectually proſecuted.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Now before theſe propoſitions were agreed upon, there paſſed ſeverall Votes on which Votes it is conceived, theſe propoſitions were propounded.
+<list>
+                  <item>1. <hi>That the Parliament is not free.</hi>
+                  </item>
+                  <item>2. <hi>That Bils were ſent to his Majeſty without their conſent.</hi>
+                  </item>
+                  <item>3. <hi>That the King is a Priſoner, contrary to promiſe.</hi>
+                  </item>
+                  <item>
+                     <pb n="3" facs="tcp:116397:3"/>
+4. <hi>And that Religion is not ſetled according to the Covenant.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>But divers <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ds, with the G<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and many of the Officers of the Army are againſt theſe Vo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and Petitioned againſt their rai<g ref="char:EOLhyphen"/>ſi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Forces in this kind.</p>
+            <p>Sir <hi>T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Glemham,</hi> and Sir <hi>Will: Fleming,</hi> expect dayly to be diſ<g ref="char:EOLhyphen"/>pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ched for <hi>France,</hi> and the Ships that came with them are prepa<g ref="char:EOLhyphen"/>r<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for their voyage; the Marriners are very jocond and merry, and report that they hope they ſhall have a ſpeedy paſſage over, and ere long to returne again, and to b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing his Highneſſe, Prince <hi>Charles</hi> with them. T<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Engliſh Commiſsion<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs delivered their Meſſage <hi>A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ril</hi> 12 to the Parl. demanding Cap. <hi>Wogan,</hi> and ſome other de<g ref="char:EOLhyphen"/>linquents there, that endeavoured to ſee both Kingdomes on fire by another Warre, and they received this anſwer.</p>
+            <p>That for the delivery of Cap. <hi>VVogan, Glemham,</hi> and o<g ref="char:EOLhyphen"/>thers, They ſay it is not contracted in the Treaties and Pa<g ref="char:EOLhyphen"/>c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ficat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on; only to deliver ſuch as ſhal endeavour to incenſe the King of the <hi>Scots</hi> againſt the kingdom of Engl. for that they conceive them not incendiaries betweene the King<g ref="char:EOLhyphen"/>doms, but rather between the King and Engl. And to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat of the am<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty between the kingdom<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, they anſwer, that they doe on their parts deſire it, and wil labour to continue it. Alſo, they do approve the m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter of their Commiſſioners Declaration, &amp; they conceive that the parliaments anſwer is not ſatisfactory, &amp;c. The Engliſh Commiſſioners ſeemed not to be wel pleaſed with this anſwer, but daily ſolicite the parl. that they would be pleaſed to conſider further of it, that they might receive a more plauſible anſwer to their demand.</p>
+            <p>In the Marqueſſe of <hi>Argiles</hi> Country there is likewiſe great Forces raiſed under the command of one Mac. Do<g ref="char:EOLhyphen"/>nald, comonly called Kolkir<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth, a kinſman of the former and hath gathered unto him a great number of diſcontent<g ref="char:EOLhyphen"/>ed perſons, and malignants, which is a very great obſtructi<g ref="char:EOLhyphen"/>on to the Deſign here on foot, and doth much re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard our proceedings.</p>
+            <p>
+               <pb n="4" facs="tcp:116397:4"/>
+The Clergy ſtand firmly to their Proteſtation, and ut<g ref="char:EOLhyphen"/>terly deteſt againſt ſending of an Army into <hi>England,</hi> or engaging themſelves in a new war with their covenanted brethren, and do f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eely acquit themſelves of the innocent blood, which by that meanes may be ſplit, and deſire of God that i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may light upon the heads, and be laid to the charge, and requires only at the hands of thoſe, that ſeeke to promote the differences, and make the breach betwixt the two Kingdoms wider, which is already too to large.</p>
+            <p>The former propoſitions are delivered to the Lord <hi>Lee,</hi> and the Parliament have given him his Inſtructions, and limited the time of his ſtay in England, which muſt not be very long, he having not many dayes allowed him for his journey.</p>
+            <p>Captain <hi>Wogan</hi> (ſo far forth as I can learn) is not in this City, but it is commonly reported, is gone towards the Borders of England. There are divers horſe and foote quartered betwixt this City and <hi>Barwick,</hi> who are provi<g ref="char:EOLhyphen"/>ded for their March, if occaſion ſerve, at an houres war<g ref="char:EOLhyphen"/>ning. It is here confidently reported, that Sir William Flemming, and Sir <hi>Thomas Glemham,</hi> do earneſtly ſolicit the Parliament, that they would be pleaſed to permit his Highneſſe Prince <hi>Charles</hi> to come into th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Kingdom, and that th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y would be pleaſed to appoint the place where he ſhall reſide and keepe his Court, and ſome there are, which are forward in ſwearing that the Parliament hath conſen<g ref="char:EOLhyphen"/>ted to their deſires, and appointed Ships for the better ſe<g ref="char:EOLhyphen"/>curity of his Highneſſe Perſon: And not long ſince I heard an <hi>Engliſh</hi> Gentleman ſpeak it, that we ſhould ere long ſee more of the Royall Blood in the City, and that we ſhould ſee <hi>Edenborough</hi> famous.</p>
+            <p>The <hi>Engliſh</hi> Cav<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es here, are very buſie in inſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting and ſtirring the people, and ſetting their hearts againſt the
+<pb n="5" facs="tcp:116397:4"/>
+Parliament of <hi>England,</hi> and are ſo confident that things will ſuite according to their deſires, that they daily drink healths here to the confuſion of the Parl. and their Independant Army.</p>
+            <p>The <hi>Scots</hi> ſtill go on in their preparations, they have a Declarati<g ref="char:EOLhyphen"/>on ready to come for the the ſouldiers that come from <hi>England</hi> are ſtill received, but maintained at private mens charge, which cannot hold long, the Miniſters ſtill couragiouſly oppoſe, but prevaile not, but do acquit themſelves of the guilt of blood that ſhall be ſhedd much indeavour is uſed to gain them; the principall Synod in Fife and Sterlings, Petition for the Parl. hearkening to the Kirke, for good of Kirk and Common-wealth, are ſl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghted, &amp; the other party carries on all with a ſtrong hand <hi>Wogans</hi> Troope is become a double Troope; <hi>Munroes</hi> men in <hi>Ireland</hi> have offered themſelves to ſerve the Parl. had thankes, and 14. dayes pay; The Paper ſet out by the Miniſters in <hi>Gloceſterſhire,</hi> in approbation of the Teſtimony of the <hi>London</hi> Miniſters in relation to the Covenant is reprinted at <hi>Eden<g ref="char:EOLhyphen"/>burgh;</hi> its thought they will ſhortly adjourn to June, and in the in<g ref="char:EOLhyphen"/>terim prepare their Armies in the Counties: the Commiſſions of the Kirk put up a large Petition to the Parl. wherein they do moſt earneſtly deſire the Lords, not to preceede, ſo as to give any incou<g ref="char:EOLhyphen"/>ragement unto the Prelaticall, or Malignant party in <hi>England,</hi> nor be any griefe to the Presbyterian party, nor to reſtore the King un<g ref="char:EOLhyphen"/>till he hath reſolved, and aſſured the ſettlement of Presbyterie, the taking of the Covenant, &amp;c. they deſire that ſuch reparation be ſought from the Parl. of <hi>England,</hi> as may be moſt probable in rea<g ref="char:EOLhyphen"/>ſon to attain the ſame in a peaceable way.</p>
+            <p>In anſwer to this Petion, the 24 Lords, and Committee for that purpoſe, give in, as the ſence of the thre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Eſtates of Parliament. Firſt, That the neceſſity and lawfulneſſe of a War ſhall be cleared before any engagement, ſo as all well affected may be ſatisfied with the neceſſity, and ends thereof. Secondly, So that the union between the Kingdomes ſhall be kept firme without diſcouragement of the Preſbyterian partie in England. Thirdly, That they will be ſo far from aſſociating with the Popiſh, Prelaticall, or Malignant partie that if they ſhall be riſing in armes to obſtruct the ends of the Co<g ref="char:EOLhyphen"/>venant, that they will indeavour the ſubpreſſion of them, as ene<g ref="char:EOLhyphen"/>mies to the Covenant, as wel as Sectaries. 4. That in regard his Maj. late conceſſions concerning religion are not ſatisfactorie, the chief end of the undertakings of this nation having been for Religion, &amp; as we ſhall endeavour the reſcuing of his Majeſtie out of their
+<pb facs="tcp:116397:5"/>
+hands, who carried him from Holdenby againſt his will, and the reſolution of both Kingdomes &amp; do ſtill detaine him cl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe priſoner, that he may with honor and ſafety be where both Kingdomes may make application to him for ſetling Religion, and a well grounded peace. So we reſolve not to put in his Majeſties hands, or any other, ſuch power whereby the ends of the Covenant may be ob<g ref="char:EOLhyphen"/>ſtructed; but before any Engagement his Majeſtie to give aſſu<g ref="char:EOLhyphen"/>rance under hand &amp; ſeale, that he ſhall for himſelf and ſucceſſors a<g ref="char:EOLhyphen"/>gree to ſuch Acts and Bils as ſhall be preſented by both, or either Kingdome reſpectively, for injoyning the Covenant, Presbyteri<g ref="char:EOLhyphen"/>an Government, Directory worſhip; &amp;c. in all his Majeſties Do<g ref="char:EOLhyphen"/>minions, and that his majeſtie ſhall never oppoſe or endeavour the change thereof. 5. That none ſhall be imployed in Arms or Com<g ref="char:EOLhyphen"/>mittees, but ſuch as are of knowne integrity and without any juſt Excepſion. Laſtly, that an Oath ſhall be framed, wherein the Church ſhall have its Intereſt, as in the like caſe hath been. This being pro<g ref="char:EOLhyphen"/>miſed, they conceive it ſit the Kingdome be put in the poſture of defenceas it was in 1643 and that a diſcret man be ſent with Pro<g ref="char:EOLhyphen"/>poſitions to the Parliament of England, with a limited time for his returne, and their anſwer. The Propoſitions that are to be brought, are with confidence ſaid to be theſe. 1. That his Majeſtie come to one of His Houſes, there to be in honour and ſafetie. 2. That the preſent army in England be diſbanded, unleſſe thoſe who will take the Covenant. 3 That Presbyterie be ſetled And laſtly That the Co<g ref="char:EOLhyphen"/>venant be taken by all upon a penalty. In a moneths time they ex<g ref="char:EOLhyphen"/>pect to have their army ready; the large Declaration to be ſent, will be ready within two dayes. Sir, thus have I for the preſent, given you a true account of all our proceedings in theſe parts, which I am bound to performe, being</p>
+            <closer>
+               <signed>Your oblieged ſervant F. Robins.</signed>
+               <dateline>Edenburgh <date>April. 22. 1648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <head>Sad newes from Norwich.</head>
+               <p>SInce my laſt to you, here hath bappened a great accident, and many per<g ref="char:EOLhyphen"/>ſons loſt their lives, occaſioned by the Malignant party; for the Mayor be<g ref="char:EOLhyphen"/>ing ſent for to attend the Parliament for ſomewhat done: the diſaffected to Parliament oppoſed his coming up the affected indeavoured to further it, this grew into a quarrel, which put the diſaffected upon repair to the County Maga<g ref="char:EOLhyphen"/>zine, being within the City to arm<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> themſelves; th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ſo handled the matter, that the Magazine blew up, vvhich beſides the houſe in vvhich it vvas, divers o<g ref="char:EOLhyphen"/>thers vvere ſpoiled, and much hurt done to Churches; one hundred perſons vvere killed and mortally vvounded, the reſidue perſiſted, untill three Troope<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>C<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l. F<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eet<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>oods</hi> horſe came in, vvho quietted them.</p>
+               <p>There vvas this day Order given to the Citizens of <hi>London,</hi> to looke to their Arme<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and be ready to be upon their Guard, vvhen they ſhall have notice.</p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprim<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tur</p>
+            <closer>
+               <signed>G. M.</signed>
+            </closer>
+            <trailer>EINIS.</trailer>
+            <pb facs="tcp:116397:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
